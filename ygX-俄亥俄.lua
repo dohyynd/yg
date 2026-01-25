@@ -360,7 +360,7 @@ WindUI:Popup({
     Title = 'YG SCRIPT',
     IconThemed = true,
     Icon = "crown",
-    Content = "欢迎尊重的用户 " .. coloredUsername .. " \n支持\nhah",
+    Content = "欢迎尊重的用户 " .. coloredUsername .. " \n支持YG感谢您！\n加入我们QQ1015718032",
     Buttons = {
         {
             Title = "取消",
@@ -491,7 +491,7 @@ infoSection:Divider()
 
 infoSection:Paragraph({
     Title = "您当前的服务器为",
-    Desc = "俄亥俄州\n欢迎使用此脚本",
+    Desc = "俄亥俄州\n欢迎使用YG此脚本",
     ThumbnailSize = 190,
 })
 infoSection:Paragraph({
